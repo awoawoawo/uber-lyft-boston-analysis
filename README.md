@@ -49,3 +49,7 @@ In order to evaluate the rides performance, we focused on the following key metr
 - Reposition premium rides (Uber Black, Lyft Lux Black) by adding differentiators such as guaranteed high-rated drivers, amenities, or business-class branding to justify higher fares, instead of competing purely on price.
 
 ## Dashboard
+![Dashboard Preview](uber_lyft_dashboard.jpg)
+
+## Presentation
+The presentation can be found [here](https://www.canva.com/design/DAGyXLm8W-0/HGnwdYjREBFYWL1SNCkr0A/edit?utm_content=DAGyXLm8W-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
